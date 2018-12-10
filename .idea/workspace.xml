@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78d66bb9-b356-44e8-86d9-96a4c00987d8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/css/global/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/css/theme/gold.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/css/theme/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/dev-tools/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/dev-tools/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/dev-tools/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/fonts/type-writer.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/1920x1080/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x400/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x400/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x400/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x400/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x400/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x400/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x500/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x550/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x550/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/400x550/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/450x215/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/450x295/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/450x700/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/500x750/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/500x750/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x647/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x970/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x970/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x970/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/970x970/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/01-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/01-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/02-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/02-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/03-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/03-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/04-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/04-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/05-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/clients/05-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo-gold-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo-gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo-red-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/mockups/devices-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/mockups/iphone-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/mockups/iphone-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/mockups/items-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/mockups/pencil-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/gmap/cd-icon-controller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/gmap/cd-icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/gmap/cd-icon-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/gmap2/cd-icon-controller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/gmap2/cd-icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/gmap2/cd-icon-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/img/widgets/worldmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/include/media/fallback.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/include/media/mp4_video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/include/media/webm_video.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/circles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/circles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/counter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/equal-height.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/equal-height.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/faq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/faq.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/google-map.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/google-map2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/google-map2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/header-sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/header-sticky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/masonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/masonry.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/portfolio-3-col.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/portfolio-3-col.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/portfolio-4-col-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/portfolio-4-col-slider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/progress-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/progress-bar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/tab.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/components/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/global.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/jquery.final-countdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/js/kinetic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/Ciphers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/IOT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/IOT1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/audi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/campus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/culture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/dance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/dinner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/fun-.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/hod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/inst.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/lamp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/logo black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/logo white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/logo-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/regi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pics/vihar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/base/_selection.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/components/_clients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/components/_faq.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/components/_form-input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/global/_global-colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/global/_global-helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/global/_global-responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/global/_global-spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/global/global/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_mockup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_plan.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_process.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_promo-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_scroll-to-section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/gui/_video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/layout/_header-v2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_animation-delay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_backface-visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_before-after.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_child.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_cubic-transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_display-center.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_font.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_horizontal-center-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_keyframes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_overlay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_perspective.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_placeholder.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_rotate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_selection.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_stroke-dashoffset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_theme-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_transform-origin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_transform-scale.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/mixins/_translate3d.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/theme/_gold.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/theme/_red.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/theme/gold.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/theme/red.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/theme/theme/_gold.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/theme/theme/_red.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/vendors/_back-to-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/vendors/_cubeportfolio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/vendors/_gmap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/scss/vendors/_swiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/circles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/cubeportfolio/css/cubeportfolio.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/cubeportfolio/img/cbp-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.appear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.back-to-top.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.equal-height.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.smooth-scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/jquery.wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/masonry/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/masonry/jquery.masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/scrollbar/jquery.scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/scrollbar/scrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/swiper/swiper.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/swiper/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/themify/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/themify/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/themify/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/themify/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/themify/themify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/vidbg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/vendor/waypoint.min.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="764" column="67" selection-start-line="764" selection-start-column="67" selection-end-line="764" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#3;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#4;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#5;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/js/global.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/user/dev-tools/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="24" />
+    <option name="width" value="1346" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="christ_iot_conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="christ_iot_conference" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/christ_iot_conference/index.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78d66bb9-b356-44e8-86d9-96a4c00987d8" name="Default" comment="" />
+      <created>1544245969483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544245969483</updated>
+      <workItem from="1544245972451" duration="2772000" />
+      <workItem from="1544422787513" duration="12472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15244000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user/js/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="764" column="67" selection-start-line="764" selection-start-column="67" selection-end-line="764" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#3;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#4;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#5;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

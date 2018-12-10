@@ -1,0 +1,103 @@
+#about{
+
+    padding-bottom: 0;
+}
+#about p{
+font-size: 17px !important;
+}
+#about .about-head{
+    margin-bottom: 0;
+}
+.invite{
+    font-size: 18px !important;
+}
+.hod{
+    float: right;
+    width: 30%;
+}
+.s-portfolio__caption-hover--cc{
+    text-align: left;
+}
+.logos.motion{
+    height: 250px;
+    margin-top: 20px;
+}
+.events img{
+    width: 100% !important;
+}
+.event-tile{
+    height: 110px;
+    margin-bottom: 20px;
+}
+#initiatives{
+    padding-bottom: 0;
+}
+@media (max-width: 500px) {
+    #about h2{
+        font-size: 19px !important;
+    }
+    #about p{
+        font-size: 13px !important;
+    }
+    .audi-head{
+        font-size: 31px !important;
+    }
+    .invite{
+        font-size: 15px !important;
+    }
+    .hod{
+        float: none;
+        width: 40%;
+    }
+}
+label.error{
+    color: #c61925;
+    font-weight: 400;
+}
+#batch option{
+    color: #222324;
+}
+@media (min-width: 768px){
+    #events{
+        margin-bottom: 40px;
+    }
+}
+#people_part{
+
+}
+#contact h5{
+    color: #fff;
+    font-size: 15px;
+}
+.powrMark{
+display: none !important;
+}
+.countdownTimer .icon-logo{
+    display: none !important;
+    font-size: 500px !important;
+}
+.icon-logo{
+    display: none !important;
+}
+a.s-header__nav-menu-link{
+    font-weight: 400;
+}
+#people option{
+    color: #222324;
+}
+label[for="Video"]{
+    float: right;
+    margin-top: 18px;
+}
+.regi-home-btn{
+    background: #7D2A9C;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 50px;
+    width: 179px;
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,.14), 0 7px 10px -5px rgb(66, 137, 244);
+    font-family: Montserrat, sans-serif;
+}
+#mobile-error{
+    color: #c61925;
+}
