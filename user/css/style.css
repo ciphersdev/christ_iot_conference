@@ -38,7 +38,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 0.75rem;
 }
 
@@ -131,7 +131,7 @@ i {
 p {
   font-size: 0.9375rem;
   font-weight: 300;
-  color: #656565;
+  color: black;
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: 1rem;

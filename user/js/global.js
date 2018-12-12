@@ -23,6 +23,7 @@ var Global = function() {
     $('.popovers-hide').popover('hide');
     $('.popovers-toggle').popover('toggle');
     $('.popovers-destroy').popover('destroy');
+
   }
 
   // Scroll To Section
